@@ -1,5 +1,10 @@
 # ❗ PROJETO EM DESENVOLVIMENTO ❗
 
+<!-- Logo do projeto centralizada no topo -->
+<div align="center">
+    <img src="assets/images/balatro/logo.png" alt="Logo do Balatro" width="300">
+</div>
+
 # 🎴 Expo Balatro
 
 Este projeto é uma recriação simplificada do jogo Balatro utilizando React Native e Expo. É uma versão divertida e prática para experimentar conceitos de desenvolvimento mobile, especialmente focada na estilização com componentes personalizados e temas dinâmicos.
